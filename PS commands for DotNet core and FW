@@ -1,0 +1,12 @@
+DotNet Core (Visual studio code)
+===========
+dotnet new console => Run this cmd after create folder                                                                                                                                                 
+dotnet run         => to run project                                                                                                                                                    
+dotnet build       => to build project                                                                                                                                                    
+dotnet publish --configuration Release... => to publish/release the project                                                                                                                      
+
+DotNet Framework
+================
+Build 			  => msbuild
+Release/Publish   => msbuild <PROJECT_NAME>.csproj /t:Publish /p:Configuration=Deploy
+
