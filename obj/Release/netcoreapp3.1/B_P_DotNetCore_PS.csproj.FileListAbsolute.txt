@@ -1,0 +1,13 @@
+D:\B_P_DotNetCore_PS\bin\Release\netcoreapp3.1\B_P_DotNetCore_PS.exe
+D:\B_P_DotNetCore_PS\bin\Release\netcoreapp3.1\B_P_DotNetCore_PS.deps.json
+D:\B_P_DotNetCore_PS\bin\Release\netcoreapp3.1\B_P_DotNetCore_PS.runtimeconfig.json
+D:\B_P_DotNetCore_PS\bin\Release\netcoreapp3.1\B_P_DotNetCore_PS.runtimeconfig.dev.json
+D:\B_P_DotNetCore_PS\bin\Release\netcoreapp3.1\B_P_DotNetCore_PS.dll
+D:\B_P_DotNetCore_PS\bin\Release\netcoreapp3.1\B_P_DotNetCore_PS.pdb
+D:\B_P_DotNetCore_PS\obj\Release\netcoreapp3.1\B_P_DotNetCore_PS.csprojAssemblyReference.cache
+D:\B_P_DotNetCore_PS\obj\Release\netcoreapp3.1\B_P_DotNetCore_PS.AssemblyInfoInputs.cache
+D:\B_P_DotNetCore_PS\obj\Release\netcoreapp3.1\B_P_DotNetCore_PS.AssemblyInfo.cs
+D:\B_P_DotNetCore_PS\obj\Release\netcoreapp3.1\B_P_DotNetCore_PS.csproj.CoreCompileInputs.cache
+D:\B_P_DotNetCore_PS\obj\Release\netcoreapp3.1\B_P_DotNetCore_PS.dll
+D:\B_P_DotNetCore_PS\obj\Release\netcoreapp3.1\B_P_DotNetCore_PS.pdb
+D:\B_P_DotNetCore_PS\obj\Release\netcoreapp3.1\B_P_DotNetCore_PS.genruntimeconfig.cache
